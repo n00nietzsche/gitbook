@@ -17,5 +17,6 @@
     * [1.7](books/toby-spring/1/1.7.md)
     * [1.8](books/toby-spring/1/1.8.md)
     * [1.9](books/toby-spring/1/1.9.md)
-* [이것이 자바다](books/undefined.md)
+* [이것이 자바다](books/this-is-java/README.md)
+  * [1. 참조 타입 \(Reference Type\)](books/this-is-java/1.md)
 
