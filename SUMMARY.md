@@ -16,6 +16,6 @@
     * [1.6](books/toby-spring/1/1.6.md)
     * [1.7](books/toby-spring/1/1.7.md)
     * [1.8](books/toby-spring/1/1.8.md)
-    * [1.9](books/toby-spring/1/untitled.md)
+    * [1.9](books/toby-spring/1/1.9.md)
 * [이것이 자바다](books/undefined.md)
 
