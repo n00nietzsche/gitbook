@@ -6,7 +6,8 @@
 ## 책 <a id="books"></a>
 
 * [토비의 스프링 정리/공부](books/toby-spring/README.md)
-  * [0. 들어가기 전에 - 스프링이란 무엇인가](books/toby-spring/0.md)
+  * [0장](books/toby-spring/0/README.md)
+    * [0. 스프링이란 무엇인가](books/toby-spring/0/0.md)
   * [1장](books/toby-spring/1/README.md)
     * [1.1 초난감 DAO](books/toby-spring/1/1.1.md)
     * [1.2 DAO의 분리](books/toby-spring/1/1.2.md)
