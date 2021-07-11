@@ -5,7 +5,7 @@
 
 ## 책 <a id="books"></a>
 
-* [토비의 스프링](books/toby-spring/README.md)
+* [토비의 스프링 정리/공부](books/toby-spring/README.md)
   * [0. 들어가기 전에 - 스프링이란 무엇인가](books/toby-spring/0.md)
   * [1장](books/toby-spring/1/README.md)
     * [1.1 초난감 DAO](books/toby-spring/1/1.1.md)
@@ -15,7 +15,7 @@
     * [1.5 스프링의 IoC](books/toby-spring/1/1.5.md)
     * [1.6 싱글톤 레지스트리와 오브젝트 스코프](books/toby-spring/1/1.6.md)
     * [1.7 의존관계 주입(DI)](books/toby-spring/1/1.7.md)
-* [이것이 자바다](books/this-is-java/README.md)
+* [이것이 자바다 정리/공부](books/this-is-java/README.md)
   * [1. 참조 타입](books/this-is-java/1.md)
   * [2. 클래스](books/this-is-java/2.md)
   * [3. 상속](books/this-is-java/3.md)
