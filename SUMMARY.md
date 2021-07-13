@@ -18,6 +18,8 @@
     * [1.7 의존관계 주입(DI)](books/toby-spring/1/1.7.md)
     * [1.8 XML을 이용한 설정](books/toby-spring/1/1.8.md)
     * [1.9 정리](books/toby-spring/1/1.9.md)
+  * [2장](books/toby-spring/2/README.md)
+    * [2.1 테스트](books/toby-spring/2/2.1.md)
 * [이것이 자바다 정리/공부](books/this-is-java/README.md)
   * [1. 참조 타입](books/this-is-java/1.md)
   * [2. 클래스](books/this-is-java/2.md)
