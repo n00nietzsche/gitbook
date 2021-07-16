@@ -23,6 +23,8 @@
     * [2.2 테스트 검증의 자동화](books/toby-spring/2/2.2.md)
     * [2.3 개발자를 위한 테스팅 프레임워크 JUnit](books/toby-spring/2/2.3.md)
     * [2.4 스프링 테스트 적용](books/toby-spring/2/2.4.md)
+    * [2.5 학습 테스트로 배우는 스프링](books/toby-spring/2/2.5.md)
+    * [2.6 정리](books/toby-spring/2/2.6.md)
 * [이것이 자바다 정리/공부](books/this-is-java/README.md)
   * [1. 참조 타입](books/this-is-java/1.md)
   * [2. 클래스](books/this-is-java/2.md)
