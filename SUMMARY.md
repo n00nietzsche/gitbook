@@ -25,6 +25,8 @@
     * [2.4 스프링 테스트 적용](books/toby-spring/2/2.4.md)
     * [2.5 학습 테스트로 배우는 스프링](books/toby-spring/2/2.5.md)
     * [2.6 정리](books/toby-spring/2/2.6.md)
+  * [3장](books/toby-spring/3/README.md)
+    * [3.1 다시보는 초난감 DAO](books/toby-spring/3/3.1.md)
 * [이것이 자바다 정리/공부](books/this-is-java/README.md)
   * [1. 참조 타입](books/this-is-java/1.md)
   * [2. 클래스](books/this-is-java/2.md)
