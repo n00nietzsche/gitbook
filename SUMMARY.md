@@ -3,6 +3,10 @@
 * [짧은 소개 \(Short description of this page.\)](README.md)
 * [Jake Seo's velog](https://velog.io/@jakeseo_me)
 
+## 네트워크 <a id="network"></a>
+
+* [CORS](network/cors/README.md)
+
 ## 책 <a id="books"></a>
 
 * [토비의 스프링 정리/공부](books/toby-spring/README.md)
