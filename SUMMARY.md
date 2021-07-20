@@ -29,6 +29,7 @@
     * [3.1 다시보는 초난감 DAO](books/toby-spring/3/3.1.md)
     * [3.2 변하는 것과 변하지 않는 것](books/toby-spring/3/3.2.md)
     * [3.3 JDBC 전략 패턴의 최적화](books/toby-spring/3/3.3.md)
+    * [3.4 컨텍스트와 DI](books/toby-spring/3/3.4.md)
 * [이것이 자바다 정리/공부](books/this-is-java/README.md)
   * [1. 참조 타입](books/this-is-java/1.md)
   * [2. 클래스](books/this-is-java/2.md)
