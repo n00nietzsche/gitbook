@@ -6,8 +6,8 @@
 ## 네트워크 <a id="network"></a>
 
 * [CORS](network/cors/README.md)
-* [OSI 7계층 정리](network/OSI-7-layer/README.md)
-  * [1. OSI 7계층 소개 및 물리 계층](network/OSI-7-layer/1.md)
+* [OSI 7계층 정리](network/OSI-7-layers/README.md)
+  * [1. OSI 7계층 소개 및 물리 계층](network/OSI-7-layers/1.md)
 
 ## 책 <a id="books"></a>
 
