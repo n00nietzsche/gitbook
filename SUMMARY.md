@@ -6,8 +6,13 @@
 ## 네트워크 <a id="network"></a>
 
 * [CORS](network/cors/README.md)
-* [OSI 7계층 정리](network/OSI-7-layers/README.md)
-  * [1. OSI 7계층 소개 및 물리 계층](network/OSI-7-layers/1.md)
+* [OSI 7계층 정리](network/OSI-7-layer/README.md)
+  * [1. OSI 7계층 소개 및 물리 계층](network/OSI-7-layer/1.md)
+  * [2. 데이터링크 계층](network/OSI-7-layer/2.md)
+  * [3. 네트워크 계층](network/OSI-7-layer/3.md)
+  * [4. 전송 계층](network/OSI-7-layer/4.md)
+  * [5. 세션, 표현, 응용 계층](network/OSI-7-layer/5.md)
+  * [6. OSI 7계층 전체적인 흐름 정리](network/OSI-7-layer/6.md)
 
 ## 책 <a id="books"></a>
 
