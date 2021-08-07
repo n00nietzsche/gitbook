@@ -46,6 +46,8 @@
     * [3.7 정리](books/toby-spring/3/3.7.md)
   * [4장](books/toby-spring/4/README.md)
     * [4.1 예외처리와 사라진 SQL Exception](books/toby-spring/4/4.1.md)
+    * [4.2 예외 전환](books/toby-spring/4/4.2.md)
+    * [4.3 정리](books/toby-spring/4/4.3.md)
 * [이것이 자바다 정리/공부](books/this-is-java/README.md)
   * [1. 참조 타입](books/this-is-java/1.md)
   * [2. 클래스](books/this-is-java/2.md)
