@@ -16,7 +16,7 @@
 
 ## 책 <a id="books"></a>
 
-* [토비의 스프링 정리/공부](books/toby-spring/README.md)
+* [토비의 스프링 정리](books/toby-spring/README.md)
   * [0장 들어가기 전에](books/toby-spring/0/README.md)
     * [0. 스프링이란 무엇인가](books/toby-spring/0/0.md)
   * [1장 오브젝트와 의존관계](books/toby-spring/1/README.md)
@@ -51,7 +51,7 @@
   * [5장 서비스 추상화](books/toby-spring/5/README.md)
     * [5.1 서비스 추상화와 사용자 레벨 관리 기능 추가](books/toby-spring/5/5.1.md)
     * [5.2 트랜잭션 서비스 추상화](books/toby-spring/5/5.2.md)
-* [이것이 자바다 정리/공부](books/this-is-java/README.md)
+* [이것이 자바다 정리](books/this-is-java/README.md)
   * [1. 참조 타입](books/this-is-java/1.md)
   * [2. 클래스](books/this-is-java/2.md)
   * [3. 상속](books/this-is-java/3.md)
@@ -69,3 +69,5 @@
   * [15. 컬렉션 프레임워크](books/this-is-java/15.md)
   * [번외) 레드 블랙 트리 정리](books/this-is-java/red_black_tree.md)
   * [16. 스트림](books/this-is-java/16.md)
+* [UML 실전에서는 이것만 쓴다](books/java-uml/README.md)
+  * [1. ](books/java-uml/1.md)
