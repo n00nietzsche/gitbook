@@ -6,7 +6,7 @@
 ## 네트워크 <a id="network"></a>
 
 * [CORS](network/cors/README.md)
-* [OSI 7계층 정리](network/OSI-7-layer/README.md)
+* [OSI 7계층](network/OSI-7-layer/README.md)
   * [1. OSI 7계층 소개 및 물리 계층](network/OSI-7-layer/1.md)
   * [2. 데이터링크 계층](network/OSI-7-layer/2.md)
   * [3. 네트워크 계층](network/OSI-7-layer/3.md)
@@ -16,7 +16,7 @@
 
 ## 책 <a id="books"></a>
 
-* [토비의 스프링 정리](books/toby-spring/README.md)
+* [토비의 스프링](books/toby-spring/README.md)
   * [0장 들어가기 전에](books/toby-spring/0/README.md)
     * [0. 스프링이란 무엇인가](books/toby-spring/0/0.md)
   * [1장 오브젝트와 의존관계](books/toby-spring/1/README.md)
@@ -52,7 +52,7 @@
     * [5.1 서비스 추상화와 사용자 레벨 관리 기능 추가](books/toby-spring/5/5.1.md)
     * [5.2 트랜잭션 서비스 추상화](books/toby-spring/5/5.2.md)
     * [5.3 서비스 추상화와 단일 책임 원칙](books/toby-spring/5/5.3.md)
-* [이것이 자바다 정리](books/this-is-java/README.md)
+* [이것이 자바다](books/this-is-java/README.md)
   * [1. 참조 타입](books/this-is-java/1.md)
   * [2. 클래스](books/this-is-java/2.md)
   * [3. 상속](books/this-is-java/3.md)
