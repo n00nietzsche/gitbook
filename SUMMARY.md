@@ -51,6 +51,7 @@
   * [5장 서비스 추상화](books/toby-spring/5/README.md)
     * [5.1 서비스 추상화와 사용자 레벨 관리 기능 추가](books/toby-spring/5/5.1.md)
     * [5.2 트랜잭션 서비스 추상화](books/toby-spring/5/5.2.md)
+    * [5.3 서비스 추상화와 단일 책임 원칙](books/toby-spring/5/5.3.md)
 * [이것이 자바다 정리](books/this-is-java/README.md)
   * [1. 참조 타입](books/this-is-java/1.md)
   * [2. 클래스](books/this-is-java/2.md)
