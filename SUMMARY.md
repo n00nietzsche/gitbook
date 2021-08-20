@@ -72,3 +72,4 @@
   * [16. 스트림](books/this-is-java/16.md)
 * [UML 실전에서는 이것만 쓴다](books/java-uml/README.md)
   * [1. 개요](books/java-uml/1.md)
+  * [2. 다이어그램으로 작업하기](books/java-uml/2.md)
